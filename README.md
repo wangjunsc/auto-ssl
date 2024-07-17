@@ -25,6 +25,9 @@
 将您的域名托管到 Cloudflare 上。这一步骤确保了您可以通过 Cloudflare 管理您的 DNS 记录。
 
 ### 3. 申请 Cloudflare 的 API Token
+非Cloudflare参见 
+https://github.com/danbao/auto-ssl/issues/3 
+https://github.com/acmesh-official/acme.sh/wiki/dnsapi
 
 访问 Cloudflare 的 API Token 管理页面，申请一个 API Token。
 
